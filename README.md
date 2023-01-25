@@ -12,8 +12,8 @@
 
 
 ## Current development status:
-###### Still in an early stage of development. Roughly 35% done.
-###### Development is currently paused.
+###### Still in an early stage of development. Roughly 50% done.
+###### Development is currently in progress.
 ###### (ArcadeMenu.pyw is currently in development)
 
 <br>
@@ -25,3 +25,9 @@
 * #### Bumpkin-PI
 > Bumpkin-Pi's github:
 > https://github.com/Bumpkin-Pi
+
+<br>
+<br>
+
+###### Please note that the first release will not be the last release.
+###### ArcadeMenu will recieve a major update after it's first release aiming to be published in September 2023.
